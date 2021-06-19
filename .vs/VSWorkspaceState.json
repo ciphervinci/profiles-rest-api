@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\profiles_api"
   ],
-  "SelectedNode": "\\vagrant_test.py",
+  "SelectedNode": "\\profiles_api\\models.py",
   "PreviewInSolutionExplorer": false
 }
