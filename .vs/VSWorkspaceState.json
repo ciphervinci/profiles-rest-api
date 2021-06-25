@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\profiles_api",
-    "\\profiles_api\\migrations",
     "\\profiles_project"
   ],
-  "SelectedNode": "\\profiles_api\\migrations\\0001_initial.py",
+  "SelectedNode": "\\profiles_api\\admin.py",
   "PreviewInSolutionExplorer": false
 }
