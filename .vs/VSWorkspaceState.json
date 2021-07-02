@@ -4,6 +4,6 @@
     "\\profiles_api",
     "\\profiles_project"
   ],
-  "SelectedNode": "\\profiles_api\\admin.py",
+  "SelectedNode": "\\profiles_api\\views.py",
   "PreviewInSolutionExplorer": false
 }
