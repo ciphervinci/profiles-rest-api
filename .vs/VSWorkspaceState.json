@@ -1,8 +1,7 @@
 {
   "ExpandedNodes": [
     "",
-    "\\profiles_api",
-    "\\profiles_project"
+    "\\profiles_api"
   ],
   "SelectedNode": "\\profiles_api\\views.py",
   "PreviewInSolutionExplorer": false
